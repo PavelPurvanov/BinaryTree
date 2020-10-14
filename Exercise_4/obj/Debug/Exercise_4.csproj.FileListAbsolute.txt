@@ -1,0 +1,8 @@
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\Exercise_4\Exercise_4\bin\Debug\Exercise_4.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\Exercise_4\Exercise_4\bin\Debug\Exercise_4.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\Exercise_4\Exercise_4\obj\Debug\Exercise_4.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\Exercise_4\Exercise_4\obj\Debug\Exercise_4.Form1.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\Exercise_4\Exercise_4\obj\Debug\Exercise_4.Properties.Resources.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\Exercise_4\Exercise_4\obj\Debug\Exercise_4.csproj.GenerateResource.Cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\Exercise_4\Exercise_4\obj\Debug\Exercise_4.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\Exercise_4\Exercise_4\obj\Debug\Exercise_4.pdb
